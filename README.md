@@ -7,6 +7,7 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Java" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/java.png"/>
 
 <!---
 Bodzisz/Bodzisz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
