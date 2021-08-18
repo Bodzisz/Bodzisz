@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Kacper Wójcicki (Bodzisz), Studying Applied Computer Science on University of Technology in Wrocław
+### Welcome to my profile!
+
+- 👋 I’m Kacper Wójcicki (Bodzisz), Studying Applied Computer Science on University of Technology in Wrocław
 - 👀 I’m interested in Programming, Sport (Football), Music
 - 🌱 I’m currently learning Java (Spring Boot), Pyhton, C++ (my 1st programming language)
 - 📫 How to reach me: kacpiw01pol@gmail.com
@@ -8,6 +10,10 @@
 ### Languages and Tools:
 
 <img align="left" alt="Java" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/java.png"/>
+<img align="left" alt="Spring" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/springIcon.png"/>
+<img align="left" alt="IntelliJ" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/git.png"/>
+<img align="left" alt="IntelliJ" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/linux.png"/>
+<img align="left" alt="IntelliJ" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/intellij.png"/>
 
 <!---
 Bodzisz/Bodzisz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
