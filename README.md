@@ -11,6 +11,7 @@
 
 <img align="left" alt="Java" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/java.png"/>
 <img align="left" alt="Spring" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/springImage.png"/>
+<img align="left" alt="Thymeleaf" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/springImage.png"/>
 <img align="left" alt="IntelliJ" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/git.png"/>
 <img align="left" alt="IntelliJ" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/linux.png"/>
 <img align="left" alt="IntelliJ" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/intellij.png"/>
