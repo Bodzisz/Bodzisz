@@ -10,10 +10,10 @@
 <img align="left" alt="Java" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/java.png"/>
 <img align="left" alt="Spring" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/springImage.png"/>
 <img align="left" alt="Thymeleaf" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/thymeleaf.png"/>
-<img align="left" alt="IntelliJ" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/git.png"/>
-<img align="left" alt="IntelliJ" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/linux.png"/>
-<img align="left" alt="IntelliJ" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/intellij.png"/>
 <img align="left" alt="MySQL" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/mysql.png"/>
+<img align="left" alt="Git" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/git.png"/>
+<img align="left" alt="Linux" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/linux.png"/>
+<img align="left" alt="IntelliJ" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/intellij.png"/>
 
 <!---
 Bodzisz/Bodzisz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
