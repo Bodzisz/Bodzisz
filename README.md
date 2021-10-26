@@ -15,6 +15,7 @@
 <img align="left" alt="IntelliJ" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/git.png"/>
 <img align="left" alt="IntelliJ" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/linux.png"/>
 <img align="left" alt="IntelliJ" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/intellij.png"/>
+<img align="left" alt="MySQL" width="26px" src="https://github.com/Bodzisz/Bodzisz/blob/main/images/mysql.png"/>
 
 <!---
 Bodzisz/Bodzisz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
