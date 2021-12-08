@@ -3,7 +3,16 @@
 - 👋 I’m Kacper Wójcicki (Bodzisz), Studying Applied Computer Science at University of Technology in Wrocław
 - 📫 How to reach me: kacper.wojcicki@protonmail.com
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bodzisz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<table>
+  <tr>
+    <td>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bodzisz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodzisz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+    </td>
+  </tr>
+</table>
 <a href="https://www.codewars.com/users/Bodzisz">
     <img align="center" src="https://www.codewars.com/users/Bodzisz/badges/large" alt="gif" width="550"/>
 </a>
