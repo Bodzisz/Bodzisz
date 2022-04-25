@@ -1,6 +1,7 @@
 ### Welcome to my profile!
 
 - 👋 I’m Kacper Wójcicki (Bodzisz), Studying Applied Computer Science at University of Technology in Wrocław
+- 💼 Java Developer
 - 📫 How to reach me: kacper.wojcicki@protonmail.com
 
 <table>
