@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-- 👋 I’m Kacper Wójcicki (Bodzisz), Studying Applied Computer Science at University of Technology in Wrocław
+- 👋 I’m Kacper Wójcicki (Bodzisz), Fullstack Java Engineer, Applied Computer Science graduate at [WUST](https://pwr.edu.pl/en/)
 - 💼 Java Developer
 - 📫 How to reach me: kacper.wojcicki@protonmail.com
 
